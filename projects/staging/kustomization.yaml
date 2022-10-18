@@ -5,5 +5,5 @@ resources:
   - ../base/instavote
 patchesStrategicMerge:
   - facebooc-deploy-kustomization.yaml
-  #- instavote-deploy-kustomization.yaml
+  - instavote-deploy-kustomization.yaml
  
