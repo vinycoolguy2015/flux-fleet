@@ -8,5 +8,7 @@ spec:
   interval: 1m0s
   ref:
     branch: main
+  secretref:
+    name: github-instavote
   url: https://github.com/dopsdemo/instavote-deploy
 
